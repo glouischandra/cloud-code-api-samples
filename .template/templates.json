@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "version": "1"
+  },
+  "templates": [
+    {
+      "path": "translate-sample",
+      "name": "Translation Sample",
+      "description": "An example that leverages GCP Translate API to translate text",
+      "languages": ["nodejs"]
+    }
+  ]
+}
