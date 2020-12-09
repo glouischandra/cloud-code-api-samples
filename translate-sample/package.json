@@ -1,8 +1,8 @@
 {
-  "name": "apis",
+  "name": "translate-sample",
   "version": "1.0.0",
   "description": "",
-  "main": "hello_world.js",
+  "main": "main.js",
   "dependencies": {
     "@google-cloud/translate": "^6.0.3",
     "googleapis": "^66.0.0"
