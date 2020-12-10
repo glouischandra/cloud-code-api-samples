@@ -4,6 +4,8 @@ const {Translate} = require('@google-cloud/translate').v2;
 // Creates a client
 const translate = new Translate();
 
+// Hello!
+
 /**
  * TODO(developer): Uncomment the following lines before running the sample.
  */
